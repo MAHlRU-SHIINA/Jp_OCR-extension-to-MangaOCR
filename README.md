@@ -23,6 +23,18 @@
 
 If you want to run or modify the source code, follow these steps.
 
+The Easier way:
+1.  **Clone the repository:**
+    ```sh
+    git clone https://github.com/MAHlRU-SHIINA/Jp_OCR-extension-to-MangaOCR.git
+    cd Jp_OCR-extension-to-MangaOCR
+    ```
+2.  **Run Setup.bat file**
+    ```Sh
+    It will install all the requied files along with the Venv and create a desktop shotcut for the App
+    ```
+
+Or the DEV way: 
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/MAHlRU-SHIINA/Jp_OCR-extension-to-MangaOCR.git
@@ -44,11 +56,6 @@ If you want to run or modify the source code, follow these steps.
     ```sh
     python JP_OCR.py
     ```
-5.  **Deactivate the Venv**
-    ```sh
-    Deactivate
-    ```
-6.  **Run the mangatext.bat file**
 
 **Acknowledgments**
 This tool is made possible by the incredible work of the open-source community, especially:
