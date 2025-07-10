@@ -1,0 +1,1 @@
+# Jp_OCR-extension-to-MangaOCR-
