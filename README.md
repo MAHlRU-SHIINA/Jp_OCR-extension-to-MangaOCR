@@ -2,7 +2,7 @@
 
 **[JP_OCR]** is a powerful GUI tool designed for quickly performing Optical Character Recognition (OCR) on images, with a special focus on manga and comics. It allows users to select regions of an image, run high-accuracy OCR, and collect the text for translation, annotation, or data collection.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
@@ -20,14 +20,6 @@
 ---
 
 ## How to Use
-
-### For Users (The Easy Way)
-
-1.  Go to the [**Releases**]() page of this repository.
-2.  Download the latest `.exe` file (e.g., `Jp_OCR-v1.0.exe`).
-3.  Run the `.exe` file. No installation is needed!
-
-### For Developers (Running from Source)
 
 If you want to run or modify the source code, follow these steps.
 
