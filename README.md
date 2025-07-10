@@ -33,6 +33,7 @@ The Easier way:
     ```Sh
     Double click the setup.bat file
     ```
+3.  **Run a Shotcut created on desktop**
 
 Or the DEV way: 
 1.  **Clone the repository:**
