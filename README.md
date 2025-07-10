@@ -31,7 +31,7 @@ The Easier way:
     ```
 2.  **Run Setup.bat file**
     ```Sh
-    It will install all the requied files along with the Venv and create a desktop shotcut for the App
+    Double click the setup.bat file
     ```
 
 Or the DEV way: 
