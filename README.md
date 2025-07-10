@@ -26,6 +26,7 @@ If you want to run or modify the source code, follow these steps.
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/MAHlRU-SHIINA/Jp_OCR-extension-to-MangaOCR.git
+    cd Jp_OCR-extension-to-MangaOCR
     ```
 
 2.  **Create a Python virtual environment:**
