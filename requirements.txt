@@ -1,0 +1,10 @@
+# Core application dependencies
+manga-ocr
+numpy
+Pillow
+
+# PyTorch is a core dependency of manga-ocr
+# Listing it explicitly ensures correct installation
+torch
+torchvision
+torchaudio
