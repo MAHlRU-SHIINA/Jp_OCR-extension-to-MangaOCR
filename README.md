@@ -44,6 +44,12 @@ If you want to run or modify the source code, follow these steps.
     ```sh
     python JP_OCR.py
     ```
+OR
+4.  **Deactivate the Venv**
+    ```sh
+    Deactivate
+    ```
+5.  **Run the mangatext.bat file**
 
 **Acknowledgments**
 This tool is made possible by the incredible work of the open-source community, especially:
